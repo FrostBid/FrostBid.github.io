@@ -49,6 +49,7 @@ figcaption {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
+
   color: black; 
   border: 2px solid black;
 }
@@ -66,9 +67,7 @@ a.button {
 }
 
 .quote {
-  margin: 20px 50px;
-  padding: 5px;
-  border-radius: 5px;
+
   background-color: grey;
   color:black !important;
 }
